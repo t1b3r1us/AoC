@@ -7,7 +7,7 @@ a_file.close()
 
 values = [int(i) for i in contents_split]
 
-for x in values:
+for x in values: #test
     for y in values:
         if x != y:
             t = x + y
