@@ -1,6 +1,7 @@
 import os
 path = "/Users/thomasmkirk/Documents/GitHub/AoC/2020/Day_04/"
 os.chdir(path)
+#comment
 
 def part1(data):
     result = [-1]*8
